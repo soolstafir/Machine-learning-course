@@ -1,2 +1,2 @@
 # Machine-learning-course
-Machine learning is an area of artificial intelligence and computer science that includes the development of software and algorithms that can make predictions based on data.
+Machine learning is an area of artificial intelligence and computer science that includes the development of software and algorithms that can make predictions based on data. The software can make decisions and follow a path that is not specifically programmed. Machine learning is used within the field of data analytics to make predictions based on trends and insights in the data.

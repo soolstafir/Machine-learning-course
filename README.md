@@ -5,8 +5,7 @@
 Требуются начальные навыки программирования на Python и знание математики (математический анализ, линейная алгебра, теория вероятностей, математическая статистика) на уровне 2 курса технического ВУЗа.
 
 ### Лекции
-1. Первичный анализ данных с Pandas, [nbviewer]
-(https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
+1. Первичный анализ данных с Pandas, [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
 2. [Визуальный анализ данных с Python](https://habrahabr.ru/company/ods/blog/323210/)
 3. [Классификация, деревья решений и метод ближайших соседей](https://habrahabr.ru/company/ods/blog/322534/)
 4. [Линейные модели классификации и регрессии](https://habrahabr.ru/company/ods/blog/323890/)

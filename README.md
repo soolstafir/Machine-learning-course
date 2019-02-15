@@ -1,10 +1,10 @@
 # Machine-learning-course
 
-Цель курса – развить понимание основных концепций машинного обучения (теория) и дать навыки его использования (практика). Поэтому статьи не без математики и поэтому в курсе множество активностей: домашние задания, соревнования на Kaggle Inclass, слушатели сами пишут [тьюториалы](https://github.com/Yorko/mlcourse.ai/wiki/Individual-projects-and-tutorials-(in-Russian)) по интересным темам и выполняют [индивидуальные проекты](https://github.com/Yorko/mlcourse.ai/wiki/Individual-projects-and-tutorials-(in-Russian)). 
+Цель курса – развить понимание основных концепций машинного обучения (теория) и дать навыки его использования (практика). 
 
-Требуются начальные навыки программирования на Python и знание математики (математический анализ, линейная алгебра, теория вероятностей, математическая статистика) на уровне 2 курса технического ВУЗа. Подробнее – в [Wiki репозитория](https://github.com/Yorko/mlcourse.ai/wiki/Prerequisites:-Python,-math-and-DevOps-(in-Russian)). 
+Требуются начальные навыки программирования на Python и знание математики (математический анализ, линейная алгебра, теория вероятностей, математическая статистика) на уровне 2 курса технического ВУЗа.
 
-### Статьи на Хабре
+### Лекции
 1. [Первичный анализ данных с Pandas](https://habrahabr.ru/company/ods/blog/322626/)
 2. [Визуальный анализ данных с Python](https://habrahabr.ru/company/ods/blog/323210/)
 3. [Классификация, деревья решений и метод ближайших соседей](https://habrahabr.ru/company/ods/blog/322534/)
@@ -28,16 +28,7 @@
 9. [Временные ряды](https://youtu.be/vZueTTJGec4)
 10. [Градиентный бустинг](https://youtu.be/ow5LdsjzfL0)
 
-#### Беседы о Data Science
-11. [Александр Дьяконов](https://www.youtube.com/watch?v=qV3yjIyj7Dc)
-12. [Константин Воронцов](https://youtu.be/DR3mgnEKRgI)
-13. [Евгений Соколов](https://youtu.be/Dmkx6KGrjx8)
-14. [Дмитрий Ветров](https://habrahabr.ru/post/350806/)
-15. [Эмели Драль и Виктор Кантор](https://youtu.be/dqt6I8dv9UQ)
-16. [Сергей Николенко](https://youtu.be/nhj7no7FVDc)
-
-### Домашние задания
-Актуальные задания будут объявляться раз в неделю при очередной сессии курса. Тут вы найдете демо-версии заданий:
+### Лабораторные работы
 
 1. Анализ данных по доходу населения UCI Adult, [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/assignments_demo/assignment01_adult_pandas.ipynb)
 2. Визуальный анализ данных о публикациях на Хабрахабре, [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/assignments_demo/assignment02_habr_visual_analysis.ipynb)

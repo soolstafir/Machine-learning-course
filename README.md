@@ -7,7 +7,7 @@
 ### Лекции
 1. Первичный анализ данных с Pandas, [лекция](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
 2. Визуальный анализ данных с Python, [часть 1](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection02_visual_analysis/ml_lection02_part01_seaborn_matplotlib_plotly.ipynb), [часть 2](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection02_visual_analysis/ml_lection02_part02_telecom_churn_tsne.ipynb)
-3. Классификация, деревья решений и метод ближайших соседей, , [лекция](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection03_decision_trees_knn/ml_lection03_trees_knn.ipynb)
+3. Классификация, деревья решений и метод ближайших соседей, [лекция](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection03_decision_trees_knn/ml_lection03_trees_knn.ipynb)
 4. Линейные модели классификации и регрессии, [часть 1](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection04_linear_models/ml_lection04_linear_models_part01_mse_likelihood_bias_variance.ipynb), [часть 2](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection04_linear_models/ml_lection04_linear_models_part02_logit_likelihood_learning.ipynb), [часть 3](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection04_linear_models/ml_lection04_linear_models_part03_regul_example.ipynb), [часть 4](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection04_linear_models/ml_lection04_linear_models_part04_good_bad_logit_movie_reviews_XOR.ipynb), [часть 5](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection04_linear_models/ml_lection04_linear_models_part05_valid_learning_curves.ipynb)
 5. Композиции: бэггинг, случайный лес,  [часть 1](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection05_bagging_rf/ml_lection05_part01_bagging.ipynb), [часть 2](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection05_bagging_rf/ml_lection05_part02_random_forest.ipynb), [часть 3](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection05_bagging_rf/ml_lection05_part03_feature_importance.ipynb)
 6. Построение и отбор признаков, [лекция](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection06_features/ml_lection6_feature_engineering_feature_selection_english.ipynb)
@@ -20,7 +20,8 @@
 1. [Первичный анализ данных с Pandas](https://www.youtube.com/watch?v=OAy96yiWohk)
 2. [Визуальный анализ данных с Seaborn и Matplotlib](https://www.youtube.com/watch?v=uwQat1TV0JM)
 3. [Классификация. Деревья решений](https://www.youtube.com/watch?v=crerhGu3j-8)
-4. [Логистическая регрессия](https://www.youtube.com/watch?v=NO4KSNbsXZE) + обсуждение [соревнования](https://inclass.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2) Kaggle
+4. [Логистическая регрессия](https://www.youtube.com/watch?v=NO4KSNbsXZE) + обсуждение [соревнования
+(https://inclass.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2) Kaggle
 5. [Случайный лес](https://www.youtube.com/watch?v=_XKQY62NJus)
 6. [Регрессия, регуляризация](https://www.youtube.com/watch?v=70WsnE4ep1Y)
 7. [Обучение без учителя](https://www.youtube.com/watch?v=u6_b0I4fGgc)

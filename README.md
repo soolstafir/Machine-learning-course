@@ -5,9 +5,9 @@
 Требуются начальные навыки программирования на Python и знание математики (математический анализ, линейная алгебра, теория вероятностей, математическая статистика) на уровне 2 курса технического ВУЗа.
 
 ### Лекции
-1. Первичный анализ данных с Pandas, [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
-2. Визуальный анализ данных с Python, [часть 1](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection02_visual_analysis/ml_lection02_part01_seaborn_matplotlib_plotly.ipynb), [часть 2](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection02_visual_analysis/ml_lection02_part02_telecom_churn_tsne.ipynb),
-3. Классификация, деревья решений и метод ближайших соседей, , [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
+1. Первичный анализ данных с Pandas, [лекция](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
+2. Визуальный анализ данных с Python, [часть 1](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection02_visual_analysis/ml_lection02_part01_seaborn_matplotlib_plotly.ipynb), [часть 2](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection02_visual_analysis/ml_lection02_part02_telecom_churn_tsne.ipynb)
+3. Классификация, деревья решений и метод ближайших соседей, , [лекция](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection03_decision_trees_knn/ml_lection03_trees_knn.ipynb)
 4. Линейные модели классификации и регрессии, , [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
 5. Композиции: бэггинг, случайный лес, , [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
 6. Построение и отбор признаков, , [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)

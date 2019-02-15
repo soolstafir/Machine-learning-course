@@ -30,7 +30,7 @@
 
 ### Лабораторные работы
 
-1. Анализ данных по доходу населения UCI Adult, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab01_adult_pandas/ml_lab01_adult_pandas.ipynb)
+1. Анализ данных по доходу населения UCI Adult, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab01_adult_pandas/ml_lab01_adult_pandas.ipynb) 
 2. Визуальный анализ данных о публикациях на Хабрахабре, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab02_visual_analysis/ml_lab02_visual_analysis.ipynb)
 3. Деревья решений в игрушечной задаче и на данных Adult репозитория UCI, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab03_decision_trees/ml_lab03_decision_trees.ipynb)
 4. Прогнозирование популярности статей на TechMedia (Хабр) с помощью линейных моделей, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab04_popularity_ridge/ml_lab04_popularity_ridge.ipynb)

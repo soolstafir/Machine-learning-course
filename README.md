@@ -39,4 +39,4 @@
 7. Обучение без учителя: метод главных компонент и кластеризация, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab07_unsupervised_learning/ml_lab07_unsupervised_learning.ipynb)
 8. Реализация алгоритмов онлайн-обучения, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab08_implement_sgd/ml_lab08_implement_sgd.ipynb)
 9. Анализ временных рядов, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab09_time_series/ml_lab09_time_series.ipynb)
-10. Прогнозирование задержек вылетов ([соревнование](https://www.kaggle.com/c/flight-delays-2017) Kaggle Inclass), [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab10_flight_delays_kaggle/ml_lab10_flight_delays_kaggle.ipynb)
+10. Прогнозирование задержек вылетов, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab10_flight_delays_kaggle/ml_lab10_flight_delays_kaggle.ipynb)

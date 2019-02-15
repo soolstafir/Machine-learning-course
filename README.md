@@ -20,8 +20,7 @@
 1. [Первичный анализ данных с Pandas](https://www.youtube.com/watch?v=OAy96yiWohk)
 2. [Визуальный анализ данных с Seaborn и Matplotlib](https://www.youtube.com/watch?v=uwQat1TV0JM)
 3. [Классификация. Деревья решений](https://www.youtube.com/watch?v=crerhGu3j-8)
-4. [Логистическая регрессия](https://www.youtube.com/watch?v=NO4KSNbsXZE) + обсуждение [соревнования
-(https://inclass.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2) Kaggle
+4. [Логистическая регрессия](https://www.youtube.com/watch?v=NO4KSNbsXZE)
 5. [Случайный лес](https://www.youtube.com/watch?v=_XKQY62NJus)
 6. [Регрессия, регуляризация](https://www.youtube.com/watch?v=70WsnE4ep1Y)
 7. [Обучение без учителя](https://www.youtube.com/watch?v=u6_b0I4fGgc)

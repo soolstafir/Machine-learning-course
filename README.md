@@ -30,13 +30,13 @@
 
 ### Лабораторные работы
 
-1. Анализ данных по доходу населения UCI Adult, [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/assignments_demo/assignment01_adult_pandas.ipynb)
-2. Визуальный анализ данных о публикациях на Хабрахабре, [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/assignments_demo/assignment02_habr_visual_analysis.ipynb)
-3. Деревья решений в игрушечной задаче и на данных Adult репозитория UCI, [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/assignments_demo/assignment03_decision_trees.ipynb)
-4. Прогнозирование популярности статей на TechMedia (Хабр) с помощью линейных моделей, [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/assignments_demo/assignment04_habr_popularity_ridge.ipynb)
-5. Логистическая регрессия и случайный лес в задаче кредитного скоринга, [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/assignments_demo/assignment05_logit_rf_credit_scoring.ipynb)
-6. Линейная регрессия, Lasso и RF-регрессия в задаче по определению качества вина, [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/assignments_demo/assignment06_regression_wine.ipynb)
-7. Обучение без учителя: метод главных компонент и кластеризация, [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/assignments_demo/assignment07_unsupervised_learning.ipynb)
-8. Реализация алгоритмов онлайн-обучения, [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/assignments_demo/assignment08_implement_sgd.ipynb)
-9. Анализ временных рядов, [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/assignments_demo/assignment09_time_series.ipynb?flush_cache=true)
-10. Прогнозирование задержек вылетов ([соревнование](https://www.kaggle.com/c/flight-delays-2017) Kaggle Inclass), [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_russian/assignments_demo/assignment10_flight_delays_kaggle.ipynb)
+1. Анализ данных по доходу населения UCI Adult, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab01_adult_pandas/ml_lab01_adult_pandas.ipynb)
+2. Визуальный анализ данных о публикациях на Хабрахабре, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab02_visual_analysis/ml_lab02_visual_analysis.ipynb)
+3. Деревья решений в игрушечной задаче и на данных Adult репозитория UCI, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab03_decision_trees/ml_lab03_decision_trees.ipynb)
+4. Прогнозирование популярности статей на TechMedia (Хабр) с помощью линейных моделей, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab04_popularity_ridge/ml_lab04_popularity_ridge.ipynb)
+5. Логистическая регрессия и случайный лес в задаче кредитного скоринга, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab05_logit_rf_credit_scoring/ml_lab05_logit_rf_credit_scoring.ipynb)
+6. Линейная регрессия, Lasso и RF-регрессия в задаче по определению качества вина, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab06_regression_wine/ml_lab06_regression_wine.ipynb)
+7. Обучение без учителя: метод главных компонент и кластеризация, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab07_unsupervised_learning/ml_lab07_unsupervised_learning.ipynb)
+8. Реализация алгоритмов онлайн-обучения, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab08_implement_sgd/ml_lab08_implement_sgd.ipynb)
+9. Анализ временных рядов, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab09_time_series/ml_lab09_time_series.ipynb)
+10. Прогнозирование задержек вылетов ([соревнование](https://www.kaggle.com/c/flight-delays-2017) Kaggle Inclass), [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab10_flight_delays_kaggle/ml_lab10_flight_delays_kaggle.ipynb)

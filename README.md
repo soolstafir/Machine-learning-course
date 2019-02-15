@@ -6,15 +6,15 @@
 
 ### Лекции
 1. Первичный анализ данных с Pandas, [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
-2. [Визуальный анализ данных с Python](https://habrahabr.ru/company/ods/blog/323210/)
-3. [Классификация, деревья решений и метод ближайших соседей](https://habrahabr.ru/company/ods/blog/322534/)
-4. [Линейные модели классификации и регрессии](https://habrahabr.ru/company/ods/blog/323890/)
-5. [Композиции: бэггинг, случайный лес](https://habrahabr.ru/company/ods/blog/324402/)
-6. [Построение и отбор признаков](https://habrahabr.ru/company/ods/blog/325422/)
-7. [Обучение без учителя: PCA и кластеризация](https://habrahabr.ru/company/ods/blog/325654/)
-8. [Обучаемся на гигабайтах с Vowpal Wabbit](https://habrahabr.ru/company/ods/blog/326418/)
-9. [Анализ временных рядов с помощью Python](https://habrahabr.ru/company/ods/blog/327242/)
-10. [Градиентный бустинг](https://habrahabr.ru/company/ods/blog/327250/) 
+2. Визуальный анализ данных с Python, [часть 1](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection02_visual_analysis/ml_lection02_part01_seaborn_matplotlib_plotly.ipynb), [часть 2](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection02_visual_analysis/ml_lection02_part02_telecom_churn_tsne.ipynb),
+3. Классификация, деревья решений и метод ближайших соседей, , [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
+4. Линейные модели классификации и регрессии, , [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
+5. Композиции: бэггинг, случайный лес, , [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
+6. Построение и отбор признаков, , [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
+7. Обучение без учителя: PCA и кластеризация, , [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
+8. Обучаемся на гигабайтах с Vowpal Wabbit, , [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
+9. Анализ временных рядов с помощью Python, , [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
+10. Градиентный бустинг, , [nbviewer](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection01_pandas_data_analysis/ml_lection01_pandas.ipynb)
 
 ### Видеолекции
 1. [Первичный анализ данных с Pandas](https://www.youtube.com/watch?v=OAy96yiWohk)

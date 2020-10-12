@@ -30,13 +30,13 @@
 
 ### Лабораторные работы
 
-1-2. Анализ данных по доходу населения UCI Adult, [задание]https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab-01-02_adult_pandas/ml_lab-01-02_adult_pandas.ipynb) 
+1-2. Анализ данных по доходу населения UCI Adult, [задание]https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab-01-02_adult_pandas/ml_lab-01-02_adult_pandas.ipynb)
 3-4. Визуальный анализ данных о публикациях на Хабрахабре, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab-03-04_visual_analysis/ml_lab-03-04_visual_analysis.ipynb)
 5-6. Деревья решений в игрушечной задаче и на данных Adult репозитория UCI, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab-05-06_decision_trees/ml_lab-05-06_decision_trees.ipynb)
 7-8. Прогнозирование популярности статей на TechMedia (Хабр) с помощью линейных моделей, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab04_popularity_ridge/ml_lab04_popularity_ridge.ipynb)
 9-10. Логистическая регрессия и случайный лес в задаче кредитного скоринга, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab05_logit_rf_credit_scoring/ml_lab05_logit_rf_credit_scoring.ipynb)
 11-12. Линейная регрессия, Lasso и RF-регрессия в задаче по определению качества вина, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab06_regression_wine/ml_lab06_regression_wine.ipynb)
 13-14. Обучение без учителя: метод главных компонент и кластеризация, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab07_unsupervised_learning/ml_lab07_unsupervised_learning.ipynb)
-[15. Реализация алгоритмов онлайн-обучения, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab08_implement_sgd/ml_lab08_implement_sgd.ipynb)
+15. Реализация алгоритмов онлайн-обучения, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab08_implement_sgd/ml_lab08_implement_sgd.ipynb)
 16. Анализ временных рядов, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab09_time_series/ml_lab09_time_series.ipynb)
-17. Прогнозирование задержек вылетов, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab10_flight_delays_kaggle/ml_lab10_flight_delays_kaggle.ipynb)]
+17. Прогнозирование задержек вылетов, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab10_flight_delays_kaggle/ml_lab10_flight_delays_kaggle.ipynb)

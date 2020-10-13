@@ -34,7 +34,7 @@
 
 Лабораторная работа 3-4. Визуальный анализ данных о публикациях на Хабрахабре, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab-03-04_visual_analysis/ml_lab-03-04_visual_analysis.ipynb)
 
-Лабораторная работа 5-6. Деревья решений в игрушечной задаче и на данных Adult репозитория UCI, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab-05-06_decision_trees/ml_lab-05-06_decision_trees.ipynb)
+Лабораторная работа 5-6. Деревья решений в игрушечной задаче и на данных Adult репозитория UCI, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab-05-06_decision_trees/ml_lab-05-06_decision_trees-knn.ipynb)
 
 Лабораторная работа 7-8. Прогнозирование популярности статей на TechMedia (Хабр) с помощью линейных моделей, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab04_popularity_ridge/ml_lab04_popularity_ridge.ipynb)
 

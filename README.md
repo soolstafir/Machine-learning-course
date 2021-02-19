@@ -13,8 +13,8 @@
 6. Построение и отбор признаков, [лекция](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection06_features/ml_lection6_feature_engineering_feature_selection_english.ipynb)
 7. Обучение без учителя: PCA и кластеризация, [часть 1](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection07_unsupervised/ml_lection07_part01_pca_clustering.ipynb), [часть 2](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection07_unsupervised/ml_lection07_part02_PCA_toy_example.ipynb), [часть 3](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection07_unsupervised/ml_lection07_part03_clustering_metrics.ipynb)
 8. Обучаемся на гигабайтах с Vowpal Wabbit, [лекция](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection-08_sgd-hashing-vowpal-wabbit/ml_lection-08_sgd-hashing-vowpal-wabbit.ipynb#8)
-<!-- 9. Анализ временных рядов с помощью Python, [лекция](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection09_time_series/ml_lection09_part01_time_series_python.ipynb)
-10. Градиентный бустинг, [лекция](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection10_boosting/ml_lection10_part01_boosting.ipynb) -->
+9. Анализ временных рядов с помощью Python, [лекция](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection09_time_series/ml_lection09_part01_time_series_python.ipynb)
+<!-- 10. Градиентный бустинг, [лекция](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Lections/ml_lection10_boosting/ml_lection10_part01_boosting.ipynb) -->
 
 ### Видеолекции
 1. [Первичный анализ данных с Pandas](https://www.youtube.com/watch?v=OAy96yiWohk)
@@ -25,8 +25,8 @@
 6. [Регрессия, регуляризация](https://www.youtube.com/watch?v=70WsnE4ep1Y)
 7. [Обучение без учителя](https://www.youtube.com/watch?v=u6_b0I4fGgc)
 8. [Признаки, SGD, Vowpal Wabbit](https://www.youtube.com/watch?v=_bRb7LYeOp4)
-<!-- 9. [Временные ряды](https://youtu.be/vZueTTJGec4)
-10. [Градиентный бустинг](https://youtu.be/ow5LdsjzfL0) -->
+9. [Временные ряды](https://youtu.be/vZueTTJGec4)
+<!-- 10. [Градиентный бустинг](https://youtu.be/ow5LdsjzfL0) -->
 
 ### Лабораторные работы
 
@@ -44,6 +44,8 @@
 
 Лабораторная работа 13-14. Обучение без учителя: метод главных компонент и кластеризация, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab07_unsupervised_learning/ml_lab07_unsupervised_learning.ipynb)
 
-<!--Лабораторная работа 15. Реализация алгоритмов онлайн-обучения, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab08_implement_sgd/ml_lab08_implement_sgd.ipynb)
+Лабораторная работа 15. Реализация алгоритмов онлайн-обучения, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab08_implement_sgd/ml_lab08_implement_sgd.ipynb)
+
 Лабораторная работа 16. Анализ временных рядов, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab09_time_series/ml_lab09_time_series.ipynb)
-Лабораторная работа 17. Прогнозирование задержек вылетов, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab10_flight_delays_kaggle/ml_lab10_flight_delays_kaggle.ipynb)-->
+
+<!-- Лабораторная работа 17. Прогнозирование задержек вылетов, [задание](https://nbviewer.jupyter.org/github/soolstafir/Machine-learning-course/blob/master/Labs/ml_lab10_flight_delays_kaggle/ml_lab10_flight_delays_kaggle.ipynb)-->
